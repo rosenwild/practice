@@ -1,5 +1,6 @@
 def sum(a, b):
     return a+b
 
-c = sum(3, 5)
+a = 3
+c = sum(a, 5)
 print(c)
